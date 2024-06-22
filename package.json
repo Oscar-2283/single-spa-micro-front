@@ -12,7 +12,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@oscar50048/test-header-666666": "^1.0.1",
+    "@oscar50048/react-test-button": "^1.0.6",
+    "i": "^0.3.7",
+    "npm": "^10.8.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "single-spa": "^6.0.1",

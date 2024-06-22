@@ -1,5 +1,11 @@
-import React from "react"
+import React from 'react';
+import TestButton from '@oscar50048/react-test-button';
 
-const App = () => <h1>Hello from React</h1>
+const App = () => (
+  <>
+    <TestButton />
+    <h1>Hello from React</h1>
+  </>
+);
 
-export default App
+export default App;
